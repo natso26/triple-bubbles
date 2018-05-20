@@ -9,7 +9,7 @@ The animation for density f_1 is [triple.mp4](https://github.com/natso26/triple-
 The files [Triple Bubble.ipynb](Triple%20Bubble.ipynb) and [Triple Bubble 2.ipynb](Triple%20Bubble%202.ipynb), respectively, generate these animations.
 These are written in Julia. To run them, you can follow these instructions.
 
-1. Download the files [Triple Bubble.ipynb](Triple%20Bubble.ipynb) and [Triple Bubble 2.ipynb](Triple%20Bubble%202.ipynb) to your computer. (These links point to the files; you can right click and download on most browsers.)
+1. Download the files [Triple Bubble.ipynb](https://github.com/natso26/triple-bubbles/raw/master/Triple%20Bubble.ipynb) and [Triple Bubble 2.ipynb](https://github.com/natso26/triple-bubbles/raw/master/Triple%20Bubble%202.ipynb) to your computer. (These links point to the files; you can right click and download on most browsers.)
 
 2. Log in to https://www.juliabox.com using either GitHub, Google, or LinkedIn.
 
