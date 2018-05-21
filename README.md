@@ -11,7 +11,7 @@ These are written in Julia. To run them, you can follow these instructions.
 
 1. Download the files [Triple Bubble.ipynb](https://github.com/natso26/triple-bubbles/raw/master/Triple%20Bubble.ipynb) and [Triple Bubble 2.ipynb](https://github.com/natso26/triple-bubbles/raw/master/Triple%20Bubble%202.ipynb) to your computer. (These links point to the files; you can right click and download on most browsers.)
 
-  Note: the downloaded files should have the extension `.ipynb`. If for some reason they are downloaded as `.ipynb.txt` (which happens in Safari), delete the extra `.txt` to make the extension just `.ipynb`.
+   Note: the downloaded files should have the extension `.ipynb`. If for some reason they are downloaded as `.ipynb.txt` (which happens in Safari), delete the extra `.txt` to make the extension just `.ipynb`.
 
 2. Log in to https://www.juliabox.com using either GitHub, Google, or LinkedIn.
 
