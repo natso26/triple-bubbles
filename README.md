@@ -20,4 +20,4 @@ The files will then appear in your JuliaBox.
 
 4. You can now run the files. To do so, click on the file. You will be directed to a Jupyter Notebook environment.
 
-   The file consists of many cells. (Each box that says e.g. `In [1]` is a cell.) You can click on any cell to select it, and clicking `Run` on the toolbar above will run the current cell. To run the whole file, you can keep pressing run and go through the cells in order. Alternatively, run all cells at once by clicking the fast forward icon. (Keep in mind that these interfaces may change in the future.)
+   The file consists of many cells. (Each box with a label like `In [1]` is a cell.) You can click on any cell to select it, and clicking `Run` on the toolbar above will run the current cell. The label `In [*]` indicates that a cell is being run. To run the whole file, you can keep pressing run and go through the cells in order. Alternatively, run all cells automatically one after another by clicking the fast forward icon. (Keep in mind that these interfaces may change in the future.)
