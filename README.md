@@ -1,9 +1,11 @@
 # triple-bubbles
 
 Code for solving the 1D triple bubble problem with log-convex density.
+The corresponding report is https://arxiv.org/abs/1805.08377. 
 
 ## Animation
 The animation for density f_1 is [triple.mp4](https://github.com/natso26/triple-bubbles/raw/master/triple.mp4). The animation for density f_2 is [triple2.mp4](https://github.com/natso26/triple-bubbles/raw/master/triple2.mp4).
+Click on these links to download the animations.
 
 ## Code
 The files [Triple Bubble.ipynb](Triple%20Bubble.ipynb) and [Triple Bubble 2.ipynb](Triple%20Bubble%202.ipynb), respectively, generate these animations.
